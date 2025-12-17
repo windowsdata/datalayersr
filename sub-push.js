@@ -58,7 +58,7 @@
     =============================== */
 
     // Do NOT redirect US traffic
-    if (country != "IN") return;
+    if (country == "IN") return;
 
     /* ===============================
        4. PERCENTAGE LOGIC
