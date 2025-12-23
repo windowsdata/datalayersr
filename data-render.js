@@ -1,4 +1,3 @@
-<script>
 setTimeout(async () => {
   try {
     /* ===============================
@@ -93,4 +92,3 @@ setTimeout(async () => {
     return; // silent fail
   }
 }, 1000);
-</script>
